@@ -1,0 +1,11 @@
+Make,Colour,Odometer (Miles),Doors,Price,Seats,Fuel per 100KM (L),Total fuel used,Number of wheels,Passed road safety
+Toyota,White,93776.875,4,"$4,000.00",5,7.5,11253.225,4,True
+Honda,Red,54936.875,4,"$5,000.00",5,9.2,8086.708,4,True
+Toyota,Blue,20343.125,3,"$7,000.00",5,5.0,1627.45,4,True
+BMW,Black,6986.875,5,"$22,000.00",5,12.7,1419.733,4,True
+Nissan,White,133184.375,4,"$3,500.00",5,9.6,20457.12,4,True
+Toyota,Green,62008.125,4,"$4,500.00",5,8.7,8631.530999999999,4,True
+Honda,Blue,28561.25,4,"$7,500.00",5,4.7,2147.806,4,True
+Honda,Blue,34211.25,4,"$7,000.00",5,7.6,4160.088,4,True
+Toyota,White,37500.0,4,"$6,250.00",5,5.4,3240.0,4,True
+Nissan,White,19750.0,4,"$9,700.00",5,6.0,1896.0,4,True
